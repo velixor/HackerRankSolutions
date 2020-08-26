@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterviewPreparationKit", "InterviewPreparationKit\InterviewPreparationKit.csproj", "{0064B617-4A2C-4A62-99AA-B2C86DB0E30D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterviewPreparationKit.Tests", "InterviewPreparationKit.Tests\InterviewPreparationKit.Tests.csproj", "{7239CE74-3522-453B-A3CE-280711313247}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0064B617-4A2C-4A62-99AA-B2C86DB0E30D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0064B617-4A2C-4A62-99AA-B2C86DB0E30D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0064B617-4A2C-4A62-99AA-B2C86DB0E30D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0064B617-4A2C-4A62-99AA-B2C86DB0E30D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7239CE74-3522-453B-A3CE-280711313247}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7239CE74-3522-453B-A3CE-280711313247}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7239CE74-3522-453B-A3CE-280711313247}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7239CE74-3522-453B-A3CE-280711313247}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
